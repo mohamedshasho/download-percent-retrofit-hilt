@@ -10,8 +10,7 @@ Hi there,
 
 
 * Try doing download precent progressBar when download file, post.... like this progress:
-
-  https://st2.depositphotos.com/47577860/46097/v/1600/depositphotos_460970390-stock-illustration-discount-sale-precent-icon-black.jpg
+  ![Screenshot](progress.png)jpg
 
   * note: if headers don't have content-length or content-length is -1
     - means that web server doesnt give you any information about length of file or post, Get...
